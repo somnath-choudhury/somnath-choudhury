@@ -24,9 +24,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-:telescope: Currently a student at Chandigarh University and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
+:telescope: A B.Tech graduate in CSE and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I explore technology and read tech articles.
 
